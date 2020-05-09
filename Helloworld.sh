@@ -4,3 +4,6 @@
 PASSWORD=$(date +%s)
 echo "${PASSWORD}"
 
+
+
+echo "Hello Jenkins"
